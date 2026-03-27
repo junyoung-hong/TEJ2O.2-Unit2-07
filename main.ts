@@ -2,7 +2,7 @@
  *
  * Created by: Junyoung
  * Created on: Mar 2026
- * This program 
+ * This program is cookie clicker
 */
 
 // variables 
